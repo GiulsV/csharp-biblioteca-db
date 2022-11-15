@@ -9,6 +9,8 @@ Bonus: implementate anche la tabella utente e i controllo di registrazione (che 
 
  */
 
+//DATABASE
+
 
 //Lista Documenti
 List<Documento> documenti = new List<Documento>();
